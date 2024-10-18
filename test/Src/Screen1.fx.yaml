@@ -2,3 +2,10 @@ Screen1 As screen:
     Fill: =Color.White
     LoadingSpinnerColor: =App.Theme.Colors.Primary
 
+    Rectangle1 As rectangle:
+        BorderColor: =App.Theme.Colors.Darker40
+        Fill: =App.Theme.Colors.Primary
+        X: =717
+        Y: =249
+        ZIndex: =1
+

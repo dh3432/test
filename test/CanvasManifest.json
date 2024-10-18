@@ -10,7 +10,7 @@
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
-    "AppCopilotSchemaName": null,
+    "AppCopilotSchemaName": "",
     "AppCreationSource": "AppFromScratch",
     "AppDescription": "",
     "AppPreviewFlagsMap": {
@@ -118,7 +118,7 @@
     "Id": "092ec793-1718-4927-aae3-643f062dd245",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "test_demo_pmi2",
     "OriginatingVersion": "1.343",
     "ParserErrorCount": 0,
